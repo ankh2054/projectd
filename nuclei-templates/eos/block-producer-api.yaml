@@ -1,0 +1,21 @@
+
+id: block-producer-api
+info:
+  name: Block Producer Plugin API
+  author: ankh2054
+  severity: High
+  description: Checks whether EOS block producer API is publicly callable.
+requests:
+  - method: GET
+    path:
+      - '{{BaseURL}}/v1/producer/get_runtime_options'
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - "max_transaction_time"
+        part: body
+      - type: word
+        words:
+          - "application/json"
+        part: header
