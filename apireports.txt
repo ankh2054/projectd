@@ -1,0 +1,161 @@
+.nodes | .[] | select(.node_type == "seed" | "full" | "api" ) | .p2p_endpoint, .api_endpoint, .ssl_endpoint | select(length > 0) 
+api_http = sed -n '/^==== api_http ====$/,/^==== api_https2 ====$/p' apireports.txt | sed '1d;$d'
+
+# Endpoints Report
+# Network: WAX
+# Validator last update: 2020-07-15 19:14 UTC
+# For details on how this is generated see https://validate.eosnation.io/about/
+
+==== api_http ====
+alohaeosprod                        http://api.wax.alohaeos.com,    US, OVH US LLC
+amsterdamwax                     http://wax.eu.eosamsterdam.net,    NL, LeaseWeb Netherlands B.V.
+blacklusionx                          http://wax.blacklusion.io,    DE, Hetzner Online GmbH
+blocksmithio                http://wax-mainnet.eosblocksmith.io,    US, Cloudflare, Inc.
+blokcrafters                         http://api.blokcrafters.io,    US, OVH US LLC
+cryptolions1                          http://wax.cryptolions.io, DE FI, HETZNER-RZ-NBG-NET2; Hetzner Online GmbH
+    dapplica                             http://wax.dapplica.io, FI ZZ, Hetzner Online GmbH
+eosarabianet                       http://api-wax.eosarabia.net,    US, Strasmore, Inc.
+eosbarcelona                           http://wax.eos.barcelona,    US, Cloudflare, Inc.
+eoseouldotio                              http://wax.eoseoul.io, JP US, Amazon Data Services Japan; Amazon Technologies Inc.
+eosphereiobp                             http://wax.eosphere.io,    AU, OVH Australia PTY LTD
+eosriobrazil                               http://wax.eosrio.io,    BR, EQUINIX BRASIL
+eostribeprod                         http://api.wax.eostribe.io,    NL, Contabo GmbH
+greeneosiobp                      http://api.wax.greeneosio.com,    ZZ, 
+ivote4waxusa                             http://wax.eosusa.news,    US, Charter Communications
+karmaproduce                        http://chain.karmaguild.io/,    US, Cloudflare, Inc.
+ledgerwiseio                        http://waxapi.ledgerwise.io,    FI, Hetzner Online GmbH
+maltablockbp                      http://api-wax.maltablock.org,    US, DataShack, LC (DL-9)
+  nation.wax                                 http://wax.eosn.io,    CA, DNSnetworks Corporation
+     pink.gg                                 http://wax.pink.gg,    DE, OVH GmbH
+   polar.wax                             http://wax.eosasia.one,    US, Amazon Technologies Inc.
+swedencornet                            http://wax.eossweden.eu,    FI, Hetzner Online GmbH
+teamgreymass                            http://wax.greymass.com,    US, DataShack, LC (DL-9)
+valcapitalbp                http://api.wax.validationcapital.io,    CA, Amazon Data Services Canada
+ wax.eastern                           http://api.waxeastern.cn,    CN, TencentCloud
+waxmadrid111                      http://wax-api.eosiomadrid.io,    US, Cloudflare, Inc.
+waxswedenorg                           http://api.waxsweden.org,    NL, GENERAL-CORPORATE-NET-A259-5
+waxworldbpbp                            http://chain.wax.world/,    US, Cloudflare, Inc.
+zenblockswax                        http://wax.api.zenblocks.io,    US, DigitalOcean, LLC
+
+==== api_https2 ====
+alohaeosprod                       https://api.wax.alohaeos.com,    US, OVH US LLC
+amsterdamwax                    https://wax.eu.eosamsterdam.net,    NL, LeaseWeb Netherlands B.V.
+blacklusionx                         https://wax.blacklusion.io,    DE, Hetzner Online GmbH
+blocksmithio               https://wax-mainnet.eosblocksmith.io,    US, Cloudflare, Inc.
+blokcrafters                        https://api.blokcrafters.io,    US, OVH US LLC
+cryptolions1                         https://wax.cryptolions.io, DE FI, HETZNER-RZ-NBG-NET2; Hetzner Online GmbH
+csxcommunity                                 https://wax.csx.io,    DE, Hetzner Online GmbH
+    dapplica                            https://wax.dapplica.io, FI ZZ, Hetzner Online GmbH
+eosarabianet                      https://api-wax.eosarabia.net,    US, Strasmore, Inc.
+eosbarcelona                          https://wax.eos.barcelona,    US, Cloudflare, Inc.
+eoseouldotio                             https://wax.eoseoul.io, JP US, Amazon Data Services Japan; Amazon Technologies Inc.
+eosphereiobp                            https://wax.eosphere.io,    AU, OVH Australia PTY LTD
+eosriobrazil                              https://wax.eosrio.io,    BR, EQUINIX BRASIL
+eostribeprod                        https://api.wax.eostribe.io,    NL, Contabo GmbH
+greeneosiobp                     https://api.wax.greeneosio.com,    ZZ, 
+ivote4waxusa                            https://wax.eosusa.news,    US, Charter Communications
+karmaproduce                       https://chain.karmaguild.io/,    US, Cloudflare, Inc.
+ledgerwiseio                       https://waxapi.ledgerwise.io,    FI, Hetzner Online GmbH
+maltablockbp                     https://api-wax.maltablock.org,    US, DataShack, LC (DL-9)
+  nation.wax                                https://wax.eosn.io,    CA, DNSnetworks Corporation
+     pink.gg                                https://wax.pink.gg,    DE, OVH GmbH
+   polar.wax                            https://wax.eosasia.one,    US, Amazon Technologies Inc.
+swedencornet                           https://wax.eossweden.eu,    FI, Hetzner Online GmbH
+teamgreymass                           https://wax.greymass.com,    US, DataShack, LC (DL-9)
+valcapitalbp               https://api.wax.validationcapital.io,    CA, Amazon Data Services Canada
+ wax.eastern                          https://api.waxeastern.cn,    CN, TencentCloud
+waxmadrid111                     https://wax-api.eosiomadrid.io,    US, Cloudflare, Inc.
+waxswedenorg                          https://api.waxsweden.org,    NL, GENERAL-CORPORATE-NET-A259-5
+waxworldbpbp                           https://chain.wax.world/,    US, Cloudflare, Inc.
+zenblockswax                       https://wax.api.zenblocks.io,    US, DigitalOcean, LLC
+
+==== history_traditional_http ====
+alohaeosprod                        http://api.wax.alohaeos.com,    US, OVH US LLC
+blacklusionx                          http://wax.blacklusion.io,    DE, Hetzner Online GmbH
+blocksmithio                http://wax-mainnet.eosblocksmith.io,    US, Cloudflare, Inc.
+blokcrafters                         http://api.blokcrafters.io,    US, OVH US LLC
+cryptolions1                          http://wax.cryptolions.io, DE FI, HETZNER-RZ-NBG-NET2; Hetzner Online GmbH
+eosarabianet                       http://api-wax.eosarabia.net,    US, Strasmore, Inc.
+eosbarcelona                           http://wax.eos.barcelona,    US, Cloudflare, Inc.
+eoseouldotio                              http://wax.eoseoul.io, JP US, Amazon Data Services Japan; Amazon Technologies Inc.
+eosphereiobp                             http://wax.eosphere.io,    AU, OVH Australia PTY LTD
+greeneosiobp                      http://api.wax.greeneosio.com,    ZZ, 
+ivote4waxusa                             http://wax.eosusa.news,    US, Charter Communications
+maltablockbp                      http://api-wax.maltablock.org,    US, DataShack, LC (DL-9)
+  nation.wax                                 http://wax.eosn.io,    CA, DNSnetworks Corporation
+     pink.gg                                 http://wax.pink.gg,    DE, OVH GmbH
+ wax.eastern                           http://api.waxeastern.cn,    CN, TencentCloud
+waxmadrid111                      http://wax-api.eosiomadrid.io,    US, Cloudflare, Inc.
+waxswedenorg                           http://api.waxsweden.org,    NL, GENERAL-CORPORATE-NET-A259-5
+
+==== history_traditional_https ====
+alohaeosprod                       https://api.wax.alohaeos.com,    US, OVH US LLC
+blacklusionx                         https://wax.blacklusion.io,    DE, Hetzner Online GmbH
+blocksmithio               https://wax-mainnet.eosblocksmith.io,    US, Cloudflare, Inc.
+blokcrafters                        https://api.blokcrafters.io,    US, OVH US LLC
+cryptolions1                         https://wax.cryptolions.io, DE FI, HETZNER-RZ-NBG-NET2; Hetzner Online GmbH
+eosarabianet                      https://api-wax.eosarabia.net,    US, Strasmore, Inc.
+eosbarcelona                          https://wax.eos.barcelona,    US, Cloudflare, Inc.
+eoseouldotio                             https://wax.eoseoul.io, JP US, Amazon Data Services Japan; Amazon Technologies Inc.
+eosphereiobp                            https://wax.eosphere.io,    AU, OVH Australia PTY LTD
+eosriobrazil                              https://wax.eosrio.io,    BR, EQUINIX BRASIL
+greeneosiobp                     https://api.wax.greeneosio.com,    ZZ, 
+ivote4waxusa                            https://wax.eosusa.news,    US, Charter Communications
+maltablockbp                     https://api-wax.maltablock.org,    US, DataShack, LC (DL-9)
+  nation.wax                                https://wax.eosn.io,    CA, DNSnetworks Corporation
+     pink.gg                                https://wax.pink.gg,    DE, OVH GmbH
+ wax.eastern                          https://api.waxeastern.cn,    CN, TencentCloud
+waxmadrid111                     https://wax-api.eosiomadrid.io,    US, Cloudflare, Inc.
+waxswedenorg                          https://api.waxsweden.org,    NL, GENERAL-CORPORATE-NET-A259-5
+
+==== hyperion_http ====
+alohaeosprod                        http://api.wax.alohaeos.com,    US, OVH US LLC
+blokcrafters                         http://api.blokcrafters.io,    US, OVH US LLC
+eosphereiobp                             http://wax.eosphere.io,    AU, OVH Australia PTY LTD
+eosriobrazil                               http://wax.eosrio.io,    BR, EQUINIX BRASIL
+     pink.gg                                 http://wax.pink.gg,    DE, OVH GmbH
+
+==== hyperion_https ====
+alohaeosprod                       https://api.wax.alohaeos.com,    US, OVH US LLC
+blokcrafters                        https://api.blokcrafters.io,    US, OVH US LLC
+eosphereiobp                            https://wax.eosphere.io,    AU, OVH Australia PTY LTD
+eosriobrazil                              https://wax.eosrio.io,    BR, EQUINIX BRASIL
+     pink.gg                                https://wax.pink.gg,    DE, OVH GmbH
+
+==== p2p ====
+aikonproduce                            waxseed1.aikon.com:9876,    JP, Amazon Data Services Japan
+alohaeosprod                         peer.wax.alohaeos.com:9876,    US, OVH US LLC
+amsterdamwax                       wax.eu.eosamsterdam.net:9101,    NL, LeaseWeb Netherlands B.V.
+argentinawax                       p2p.wax.eosargentina.io:9872,    FI, Hetzner Online GmbH
+blacklusionx                      peer1.wax.blacklusion.io:9876,    DE, Hetzner Online GmbH
+blokcrafters                          seed.blokcrafters.io:9876,    US, OVH US LLC
+cryptolions1                            wax.cryptolions.io:9876, DE FI, HETZNER-RZ-NBG-NET2; Hetzner Online GmbH
+cypherglasss                           wax.cypherglass.com:9876,    BR, Infinite Cloud Computing
+    dapplica                               wax.dapplica.io:9876, FI ZZ, Hetzner Online GmbH
+eos42freedom                                  p2p.eos42.io:9884,    GB, Fasthosts Internet Limited
+eosarabianet                         p2p-wax.eosarabia.net:9876,    US, Strasmore, Inc.
+eosbarcelona                         wax-p2p.eos.barcelona:9876,    FI, Hetzner Online GmbH
+eosdacserver                                wax.eosdac.io:29876,    PL, OVH Sp. z o. o.
+eoseouldotio                               p2p.eoseoul.io:29876, JP US, Amazon Data Services Japan; Amazon Technologies Inc.
+eosiodetroit                         p2p.wax.eosdetroit.io:1337,    AU, Asia Pacific Network Information Centre
+eosphereiobp                         peer1-wax.eosphere.io:9876,    AU, OVH Australia PTY LTD
+eosphereiobp                         peer2-wax.eosphere.io:9876,    AU, OVH Australia PTY LTD
+eostribeprod                         seed.wax.eostribe.io:16876,    US, C7 Data Centers, Inc. (CDC-118)
+eostribeprod                          p2p.wax.eostribe.io:16876,    NL, Contabo GmbH
+greeneosiobp                       p2p1.wax.greeneosio.com:9878,    NL, Hetzner Online GmbH
+greeneosiobp                       p2p2.wax.greeneosio.com:9878,    DE, HETZNER-fsn1-dc7
+greeneosiobp                       p2p3.wax.greeneosio.com:9876,    FR, ONLINE SAS
+karmaproduce                            seed.karmaguild.io:9876,    FI, Hetzner Online GmbH
+ledgerwiseio                         waxp2p.ledgerwise.io:21877,    FI, Hetzner Online GmbH
+maltablockbp                        p2p-wax.maltablock.org:9877,    US, Google LLC
+  nation.wax                                   wax.eosn.io:9876,    CA, DNSnetworks Corporation
+     pink.gg                            peer1.wax.pink.gg:36715,    DE, Hetzner Online GmbH
+     pink.gg                            peer2.wax.pink.gg:36715,    DE, OVH GmbH
+   polar.wax                          wax-peer.eosasia.one:9876,    US, Amazon.com, Inc.
+teamgreymass                             wax.greymass.com:35777,    US, DataShack, LC (DL-9)
+valcapitalbp                  p2p.wax.validationcapital.io:9876,    CA, Amazon Data Services Canada
+ wax.eastern                             p2p.waxeastern.cn:9876,    CN, TencentCloud
+waxmadrid111                       wax-seed.eosiomadrid.io:9877,    NL, Hetzner Online GmbH
+waxswedenorg                            p2p.waxsweden.org:35777,    SE, OWNIT-SE-NET
+xpoblockswax                            wapi.xpoblocks.com:9876,    US, Choopa, LLC
+zenblockswax                             wax.zenblocks.io:13975,    US, Choopa, LLC

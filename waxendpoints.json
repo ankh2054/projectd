@@ -1,0 +1,1414 @@
+{
+  "meta": {
+    "details": {
+      "value": "For details on how this is generated see https://validate.eosnation.io/about/"
+    },
+    "network": {
+      "label": "Network:",
+      "value": "WAX"
+    },
+    "title": {
+      "value": "Endpoints Report"
+    },
+    "update": {
+      "label": "Validator last update:",
+      "value": "2020-07-15 17:40 UTC"
+    }
+  },
+  "report": {
+    "api_http": [
+      [
+        {
+          "html_name": "Aloha EOS",
+          "name": "alohaeosprod",
+          "rank": 3
+        },
+        "http://api.wax.alohaeos.com",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "EOSAmsterdam",
+          "name": "amsterdamwax",
+          "rank": 4
+        },
+        "http://wax.eu.eosamsterdam.net",
+        "NL",
+        "LeaseWeb Netherlands B.V."
+      ],
+      [
+        {
+          "html_name": "Blacklusion",
+          "name": "blacklusionx",
+          "rank": 45
+        },
+        "http://wax.blacklusion.io",
+        "DE",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOS BlockSmith",
+          "name": "blocksmithio",
+          "rank": 34
+        },
+        "http://wax-mainnet.eosblocksmith.io",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "BlokCrafters",
+          "name": "blokcrafters",
+          "rank": 24
+        },
+        "http://api.blokcrafters.io",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "CryptoLions&#x1F981;",
+          "name": "cryptolions1",
+          "rank": 8
+        },
+        "http://wax.cryptolions.io",
+        "DE FI",
+        "HETZNER-RZ-NBG-NET2; Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "dapplica",
+          "name": "dapplica",
+          "rank": 19
+        },
+        "http://wax.dapplica.io",
+        "FI ZZ",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOSArabia",
+          "name": "eosarabianet",
+          "rank": 28
+        },
+        "http://api-wax.eosarabia.net",
+        "US",
+        "Strasmore, Inc."
+      ],
+      [
+        {
+          "html_name": "eosBarcelonaWaxGuild",
+          "name": "eosbarcelona",
+          "rank": 7
+        },
+        "http://wax.eos.barcelona",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "EOSeoul",
+          "name": "eoseouldotio",
+          "rank": 39
+        },
+        "http://wax.eoseoul.io",
+        "JP US",
+        "Amazon Data Services Japan; Amazon Technologies Inc."
+      ],
+      [
+        {
+          "html_name": "EOSphere Guild",
+          "name": "eosphereiobp",
+          "rank": 22
+        },
+        "http://wax.eosphere.io",
+        "AU",
+        "OVH Australia PTY LTD"
+      ],
+      [
+        {
+          "html_name": "EOS Rio &#x1F499; ",
+          "name": "eosriobrazil",
+          "rank": 5
+        },
+        "http://wax.eosrio.io",
+        "BR",
+        "EQUINIX BRASIL"
+      ],
+      [
+        {
+          "html_name": "EOSTribe",
+          "name": "eostribeprod",
+          "rank": 31
+        },
+        "http://api.wax.eostribe.io",
+        "NL",
+        "Contabo GmbH"
+      ],
+      [
+        {
+          "html_name": "GreenEOSIO",
+          "name": "greeneosiobp",
+          "rank": 33
+        },
+        "http://api.wax.greeneosio.com",
+        "ZZ",
+        ""
+      ],
+      [
+        {
+          "html_name": "WAXUSA",
+          "name": "ivote4waxusa",
+          "rank": 23
+        },
+        "http://wax.eosusa.news",
+        "US",
+        "Charter Communications"
+      ],
+      [
+        {
+          "html_name": "KARMA",
+          "name": "karmaproduce",
+          "rank": 47
+        },
+        "http://chain.karmaguild.io/",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "LedgerWise",
+          "name": "ledgerwiseio",
+          "rank": 41
+        },
+        "http://waxapi.ledgerwise.io",
+        "FI",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "Maltablock Guild",
+          "name": "maltablockbp",
+          "rank": 6
+        },
+        "http://api-wax.maltablock.org",
+        "US",
+        "DataShack, LC (DL-9)"
+      ],
+      [
+        {
+          "html_name": "EOS Nation",
+          "name": "nation.wax",
+          "rank": 11
+        },
+        "http://wax.eosn.io",
+        "CA",
+        "DNSnetworks Corporation"
+      ],
+      [
+        {
+          "html_name": "pink.network",
+          "name": "pink.gg",
+          "rank": 9
+        },
+        "http://wax.pink.gg",
+        "DE",
+        "OVH GmbH"
+      ],
+      [
+        {
+          "html_name": "Polar.io",
+          "name": "polar.wax",
+          "rank": 18
+        },
+        "http://wax.eosasia.one",
+        "US",
+        "Amazon Technologies Inc."
+      ],
+      [
+        {
+          "html_name": "swedencornet (ICON Sweden | EOSIO)",
+          "name": "swedencornet",
+          "rank": 25
+        },
+        "http://wax.eossweden.eu",
+        "FI",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "Greymass",
+          "name": "teamgreymass",
+          "rank": 14
+        },
+        "http://wax.greymass.com",
+        "US",
+        "DataShack, LC (DL-9)"
+      ],
+      [
+        {
+          "html_name": "Validation Capital",
+          "name": "valcapitalbp",
+          "rank": 35
+        },
+        "http://api.wax.validationcapital.io",
+        "CA",
+        "Amazon Data Services Canada"
+      ],
+      [
+        {
+          "html_name": "WAX.Eastern",
+          "name": "wax.eastern",
+          "rank": 20
+        },
+        "http://api.waxeastern.cn",
+        "CN",
+        "TencentCloud"
+      ],
+      [
+        {
+          "html_name": "Wax Madrid",
+          "name": "waxmadrid111",
+          "rank": 30
+        },
+        "http://wax-api.eosiomadrid.io",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "Sw/eden&#x1F33F;",
+          "name": "waxswedenorg",
+          "rank": 2
+        },
+        "http://api.waxsweden.org",
+        "NL",
+        "GENERAL-CORPORATE-NET-A259-5"
+      ],
+      [
+        {
+          "html_name": "WAX.WORLD",
+          "name": "waxworldbpbp",
+          "rank": 21
+        },
+        "http://chain.wax.world/",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "ZenBlocks.io",
+          "name": "zenblockswax",
+          "rank": 15
+        },
+        "http://wax.api.zenblocks.io",
+        "US",
+        "DigitalOcean, LLC"
+      ]
+    ],
+    "api_https2": [
+      [
+        {
+          "html_name": "Aloha EOS",
+          "name": "alohaeosprod",
+          "rank": 3
+        },
+        "https://api.wax.alohaeos.com",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "EOSAmsterdam",
+          "name": "amsterdamwax",
+          "rank": 4
+        },
+        "https://wax.eu.eosamsterdam.net",
+        "NL",
+        "LeaseWeb Netherlands B.V."
+      ],
+      [
+        {
+          "html_name": "Blacklusion",
+          "name": "blacklusionx",
+          "rank": 45
+        },
+        "https://wax.blacklusion.io",
+        "DE",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOS BlockSmith",
+          "name": "blocksmithio",
+          "rank": 34
+        },
+        "https://wax-mainnet.eosblocksmith.io",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "BlokCrafters",
+          "name": "blokcrafters",
+          "rank": 24
+        },
+        "https://api.blokcrafters.io",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "CryptoLions&#x1F981;",
+          "name": "cryptolions1",
+          "rank": 8
+        },
+        "https://wax.cryptolions.io",
+        "DE FI",
+        "HETZNER-RZ-NBG-NET2; Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOSCSX",
+          "name": "csxcommunity",
+          "rank": 29
+        },
+        "https://wax.csx.io",
+        "DE",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "dapplica",
+          "name": "dapplica",
+          "rank": 19
+        },
+        "https://wax.dapplica.io",
+        "FI ZZ",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOSArabia",
+          "name": "eosarabianet",
+          "rank": 28
+        },
+        "https://api-wax.eosarabia.net",
+        "US",
+        "Strasmore, Inc."
+      ],
+      [
+        {
+          "html_name": "eosBarcelonaWaxGuild",
+          "name": "eosbarcelona",
+          "rank": 7
+        },
+        "https://wax.eos.barcelona",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "EOSeoul",
+          "name": "eoseouldotio",
+          "rank": 39
+        },
+        "https://wax.eoseoul.io",
+        "JP US",
+        "Amazon Data Services Japan; Amazon Technologies Inc."
+      ],
+      [
+        {
+          "html_name": "EOSphere Guild",
+          "name": "eosphereiobp",
+          "rank": 22
+        },
+        "https://wax.eosphere.io",
+        "AU",
+        "OVH Australia PTY LTD"
+      ],
+      [
+        {
+          "html_name": "EOS Rio &#x1F499; ",
+          "name": "eosriobrazil",
+          "rank": 5
+        },
+        "https://wax.eosrio.io",
+        "BR",
+        "EQUINIX BRASIL"
+      ],
+      [
+        {
+          "html_name": "EOSTribe",
+          "name": "eostribeprod",
+          "rank": 31
+        },
+        "https://api.wax.eostribe.io",
+        "NL",
+        "Contabo GmbH"
+      ],
+      [
+        {
+          "html_name": "GreenEOSIO",
+          "name": "greeneosiobp",
+          "rank": 33
+        },
+        "https://api.wax.greeneosio.com",
+        "ZZ",
+        ""
+      ],
+      [
+        {
+          "html_name": "WAXUSA",
+          "name": "ivote4waxusa",
+          "rank": 23
+        },
+        "https://wax.eosusa.news",
+        "US",
+        "Charter Communications"
+      ],
+      [
+        {
+          "html_name": "KARMA",
+          "name": "karmaproduce",
+          "rank": 47
+        },
+        "https://chain.karmaguild.io/",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "LedgerWise",
+          "name": "ledgerwiseio",
+          "rank": 41
+        },
+        "https://waxapi.ledgerwise.io",
+        "FI",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "Maltablock Guild",
+          "name": "maltablockbp",
+          "rank": 6
+        },
+        "https://api-wax.maltablock.org",
+        "US",
+        "DataShack, LC (DL-9)"
+      ],
+      [
+        {
+          "html_name": "EOS Nation",
+          "name": "nation.wax",
+          "rank": 11
+        },
+        "https://wax.eosn.io",
+        "CA",
+        "DNSnetworks Corporation"
+      ],
+      [
+        {
+          "html_name": "pink.network",
+          "name": "pink.gg",
+          "rank": 9
+        },
+        "https://wax.pink.gg",
+        "DE",
+        "OVH GmbH"
+      ],
+      [
+        {
+          "html_name": "swedencornet (ICON Sweden | EOSIO)",
+          "name": "swedencornet",
+          "rank": 25
+        },
+        "https://wax.eossweden.eu",
+        "FI",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "Greymass",
+          "name": "teamgreymass",
+          "rank": 14
+        },
+        "https://wax.greymass.com",
+        "US",
+        "DataShack, LC (DL-9)"
+      ],
+      [
+        {
+          "html_name": "Validation Capital",
+          "name": "valcapitalbp",
+          "rank": 35
+        },
+        "https://api.wax.validationcapital.io",
+        "CA",
+        "Amazon Data Services Canada"
+      ],
+      [
+        {
+          "html_name": "WAX.Eastern",
+          "name": "wax.eastern",
+          "rank": 20
+        },
+        "https://api.waxeastern.cn",
+        "CN",
+        "TencentCloud"
+      ],
+      [
+        {
+          "html_name": "Wax Madrid",
+          "name": "waxmadrid111",
+          "rank": 30
+        },
+        "https://wax-api.eosiomadrid.io",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "Sw/eden&#x1F33F;",
+          "name": "waxswedenorg",
+          "rank": 2
+        },
+        "https://api.waxsweden.org",
+        "NL",
+        "GENERAL-CORPORATE-NET-A259-5"
+      ],
+      [
+        {
+          "html_name": "WAX.WORLD",
+          "name": "waxworldbpbp",
+          "rank": 21
+        },
+        "https://chain.wax.world/",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "ZenBlocks.io",
+          "name": "zenblockswax",
+          "rank": 15
+        },
+        "https://wax.api.zenblocks.io",
+        "US",
+        "DigitalOcean, LLC"
+      ]
+    ],
+    "history_traditional_http": [
+      [
+        {
+          "html_name": "Aloha EOS",
+          "name": "alohaeosprod",
+          "rank": 3
+        },
+        "http://api.wax.alohaeos.com",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "Blacklusion",
+          "name": "blacklusionx",
+          "rank": 45
+        },
+        "http://wax.blacklusion.io",
+        "DE",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOS BlockSmith",
+          "name": "blocksmithio",
+          "rank": 34
+        },
+        "http://wax-mainnet.eosblocksmith.io",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "BlokCrafters",
+          "name": "blokcrafters",
+          "rank": 24
+        },
+        "http://api.blokcrafters.io",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "CryptoLions&#x1F981;",
+          "name": "cryptolions1",
+          "rank": 8
+        },
+        "http://wax.cryptolions.io",
+        "DE FI",
+        "HETZNER-RZ-NBG-NET2; Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOSArabia",
+          "name": "eosarabianet",
+          "rank": 28
+        },
+        "http://api-wax.eosarabia.net",
+        "US",
+        "Strasmore, Inc."
+      ],
+      [
+        {
+          "html_name": "eosBarcelonaWaxGuild",
+          "name": "eosbarcelona",
+          "rank": 7
+        },
+        "http://wax.eos.barcelona",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "EOSeoul",
+          "name": "eoseouldotio",
+          "rank": 39
+        },
+        "http://wax.eoseoul.io",
+        "JP US",
+        "Amazon Data Services Japan; Amazon Technologies Inc."
+      ],
+      [
+        {
+          "html_name": "EOSphere Guild",
+          "name": "eosphereiobp",
+          "rank": 22
+        },
+        "http://wax.eosphere.io",
+        "AU",
+        "OVH Australia PTY LTD"
+      ],
+      [
+        {
+          "html_name": "EOS Rio &#x1F499; ",
+          "name": "eosriobrazil",
+          "rank": 5
+        },
+        "http://wax.eosrio.io",
+        "BR",
+        "EQUINIX BRASIL"
+      ],
+      [
+        {
+          "html_name": "GreenEOSIO",
+          "name": "greeneosiobp",
+          "rank": 33
+        },
+        "http://api.wax.greeneosio.com",
+        "ZZ",
+        ""
+      ],
+      [
+        {
+          "html_name": "WAXUSA",
+          "name": "ivote4waxusa",
+          "rank": 23
+        },
+        "http://wax.eosusa.news",
+        "US",
+        "Charter Communications"
+      ],
+      [
+        {
+          "html_name": "EOS Nation",
+          "name": "nation.wax",
+          "rank": 11
+        },
+        "http://wax.eosn.io",
+        "CA",
+        "DNSnetworks Corporation"
+      ],
+      [
+        {
+          "html_name": "pink.network",
+          "name": "pink.gg",
+          "rank": 9
+        },
+        "http://wax.pink.gg",
+        "DE",
+        "OVH GmbH"
+      ],
+      [
+        {
+          "html_name": "WAX.Eastern",
+          "name": "wax.eastern",
+          "rank": 20
+        },
+        "http://api.waxeastern.cn",
+        "CN",
+        "TencentCloud"
+      ],
+      [
+        {
+          "html_name": "Wax Madrid",
+          "name": "waxmadrid111",
+          "rank": 30
+        },
+        "http://wax-api.eosiomadrid.io",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "Sw/eden&#x1F33F;",
+          "name": "waxswedenorg",
+          "rank": 2
+        },
+        "http://api.waxsweden.org",
+        "NL",
+        "GENERAL-CORPORATE-NET-A259-5"
+      ]
+    ],
+    "history_traditional_https": [
+      [
+        {
+          "html_name": "Aloha EOS",
+          "name": "alohaeosprod",
+          "rank": 3
+        },
+        "https://api.wax.alohaeos.com",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "Blacklusion",
+          "name": "blacklusionx",
+          "rank": 45
+        },
+        "https://wax.blacklusion.io",
+        "DE",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOS BlockSmith",
+          "name": "blocksmithio",
+          "rank": 34
+        },
+        "https://wax-mainnet.eosblocksmith.io",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "BlokCrafters",
+          "name": "blokcrafters",
+          "rank": 24
+        },
+        "https://api.blokcrafters.io",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "CryptoLions&#x1F981;",
+          "name": "cryptolions1",
+          "rank": 8
+        },
+        "https://wax.cryptolions.io",
+        "DE FI",
+        "HETZNER-RZ-NBG-NET2; Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOSArabia",
+          "name": "eosarabianet",
+          "rank": 28
+        },
+        "https://api-wax.eosarabia.net",
+        "US",
+        "Strasmore, Inc."
+      ],
+      [
+        {
+          "html_name": "eosBarcelonaWaxGuild",
+          "name": "eosbarcelona",
+          "rank": 7
+        },
+        "https://wax.eos.barcelona",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "EOSeoul",
+          "name": "eoseouldotio",
+          "rank": 39
+        },
+        "https://wax.eoseoul.io",
+        "JP US",
+        "Amazon Data Services Japan; Amazon Technologies Inc."
+      ],
+      [
+        {
+          "html_name": "EOSphere Guild",
+          "name": "eosphereiobp",
+          "rank": 22
+        },
+        "https://wax.eosphere.io",
+        "AU",
+        "OVH Australia PTY LTD"
+      ],
+      [
+        {
+          "html_name": "GreenEOSIO",
+          "name": "greeneosiobp",
+          "rank": 33
+        },
+        "https://api.wax.greeneosio.com",
+        "ZZ",
+        ""
+      ],
+      [
+        {
+          "html_name": "WAXUSA",
+          "name": "ivote4waxusa",
+          "rank": 23
+        },
+        "https://wax.eosusa.news",
+        "US",
+        "Charter Communications"
+      ],
+      [
+        {
+          "html_name": "EOS Nation",
+          "name": "nation.wax",
+          "rank": 11
+        },
+        "https://wax.eosn.io",
+        "CA",
+        "DNSnetworks Corporation"
+      ],
+      [
+        {
+          "html_name": "pink.network",
+          "name": "pink.gg",
+          "rank": 9
+        },
+        "https://wax.pink.gg",
+        "DE",
+        "OVH GmbH"
+      ],
+      [
+        {
+          "html_name": "WAX.Eastern",
+          "name": "wax.eastern",
+          "rank": 20
+        },
+        "https://api.waxeastern.cn",
+        "CN",
+        "TencentCloud"
+      ],
+      [
+        {
+          "html_name": "Wax Madrid",
+          "name": "waxmadrid111",
+          "rank": 30
+        },
+        "https://wax-api.eosiomadrid.io",
+        "US",
+        "Cloudflare, Inc."
+      ],
+      [
+        {
+          "html_name": "Sw/eden&#x1F33F;",
+          "name": "waxswedenorg",
+          "rank": 2
+        },
+        "https://api.waxsweden.org",
+        "NL",
+        "GENERAL-CORPORATE-NET-A259-5"
+      ]
+    ],
+    "hyperion_http": [
+      [
+        {
+          "html_name": "Aloha EOS",
+          "name": "alohaeosprod",
+          "rank": 3
+        },
+        "http://api.wax.alohaeos.com",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "BlokCrafters",
+          "name": "blokcrafters",
+          "rank": 24
+        },
+        "http://api.blokcrafters.io",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "EOSphere Guild",
+          "name": "eosphereiobp",
+          "rank": 22
+        },
+        "http://wax.eosphere.io",
+        "AU",
+        "OVH Australia PTY LTD"
+      ],
+      [
+        {
+          "html_name": "EOS Rio &#x1F499; ",
+          "name": "eosriobrazil",
+          "rank": 5
+        },
+        "http://wax.eosrio.io",
+        "BR",
+        "EQUINIX BRASIL"
+      ],
+      [
+        {
+          "html_name": "pink.network",
+          "name": "pink.gg",
+          "rank": 9
+        },
+        "http://wax.pink.gg",
+        "DE",
+        "OVH GmbH"
+      ]
+    ],
+    "hyperion_https": [
+      [
+        {
+          "html_name": "Aloha EOS",
+          "name": "alohaeosprod",
+          "rank": 3
+        },
+        "https://api.wax.alohaeos.com",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "BlokCrafters",
+          "name": "blokcrafters",
+          "rank": 24
+        },
+        "https://api.blokcrafters.io",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "EOSphere Guild",
+          "name": "eosphereiobp",
+          "rank": 22
+        },
+        "https://wax.eosphere.io",
+        "AU",
+        "OVH Australia PTY LTD"
+      ],
+      [
+        {
+          "html_name": "EOS Rio &#x1F499; ",
+          "name": "eosriobrazil",
+          "rank": 5
+        },
+        "https://wax.eosrio.io",
+        "BR",
+        "EQUINIX BRASIL"
+      ],
+      [
+        {
+          "html_name": "pink.network",
+          "name": "pink.gg",
+          "rank": 9
+        },
+        "https://wax.pink.gg",
+        "DE",
+        "OVH GmbH"
+      ]
+    ],
+    "p2p": [
+      [
+        {
+          "html_name": "AIKON",
+          "name": "aikonproduce",
+          "rank": 46
+        },
+        "waxseed1.aikon.com:9876",
+        "JP",
+        "Amazon Data Services Japan"
+      ],
+      [
+        {
+          "html_name": "Aloha EOS",
+          "name": "alohaeosprod",
+          "rank": 3
+        },
+        "peer.wax.alohaeos.com:9876",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "EOSAmsterdam",
+          "name": "amsterdamwax",
+          "rank": 4
+        },
+        "wax.eu.eosamsterdam.net:9101",
+        "NL",
+        "LeaseWeb Netherlands B.V."
+      ],
+      [
+        {
+          "html_name": "EOSArgentina",
+          "name": "argentinawax",
+          "rank": 48
+        },
+        "p2p.wax.eosargentina.io:9872",
+        "FI",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "Blacklusion",
+          "name": "blacklusionx",
+          "rank": 45
+        },
+        "peer1.wax.blacklusion.io:9876",
+        "DE",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "BlokCrafters",
+          "name": "blokcrafters",
+          "rank": 24
+        },
+        "seed.blokcrafters.io:9876",
+        "US",
+        "OVH US LLC"
+      ],
+      [
+        {
+          "html_name": "CryptoLions&#x1F981;",
+          "name": "cryptolions1",
+          "rank": 8
+        },
+        "wax.cryptolions.io:9876",
+        "DE FI",
+        "HETZNER-RZ-NBG-NET2; Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "Cypherglass",
+          "name": "cypherglasss",
+          "rank": 37
+        },
+        "wax.cypherglass.com:9876",
+        "BR",
+        "Infinite Cloud Computing"
+      ],
+      [
+        {
+          "html_name": "dapplica",
+          "name": "dapplica",
+          "rank": 19
+        },
+        "wax.dapplica.io:9876",
+        "FI ZZ",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "EOS42",
+          "name": "eos42freedom",
+          "rank": 16
+        },
+        "p2p.eos42.io:9884",
+        "GB",
+        "Fasthosts Internet Limited"
+      ],
+      [
+        {
+          "html_name": "EOSArabia",
+          "name": "eosarabianet",
+          "rank": 28
+        },
+        "p2p-wax.eosarabia.net:9876",
+        "US",
+        "Strasmore, Inc."
+      ],
+      [
+        {
+          "html_name": "eosBarcelonaWaxGuild",
+          "name": "eosbarcelona",
+          "rank": 7
+        },
+        "wax-p2p.eos.barcelona:9876",
+        "FI",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "eosDAC",
+          "name": "eosdacserver",
+          "rank": 13
+        },
+        "wax.eosdac.io:29876",
+        "PL",
+        "OVH Sp. z o. o."
+      ],
+      [
+        {
+          "html_name": "EOSeoul",
+          "name": "eoseouldotio",
+          "rank": 39
+        },
+        "p2p.eoseoul.io:29876",
+        "JP US",
+        "Amazon Data Services Japan; Amazon Technologies Inc."
+      ],
+      [
+        {
+          "html_name": "EOS Detroit",
+          "name": "eosiodetroit",
+          "rank": 17
+        },
+        "p2p.wax.eosdetroit.io:1337",
+        "AU",
+        "Asia Pacific Network Information Centre"
+      ],
+      [
+        {
+          "html_name": "EOSphere Guild",
+          "name": "eosphereiobp",
+          "rank": 22
+        },
+        "peer1-wax.eosphere.io:9876",
+        "AU",
+        "OVH Australia PTY LTD"
+      ],
+      [
+        {
+          "html_name": "EOSphere Guild",
+          "name": "eosphereiobp",
+          "rank": 22
+        },
+        "peer2-wax.eosphere.io:9876",
+        "AU",
+        "OVH Australia PTY LTD"
+      ],
+      [
+        {
+          "html_name": "EOSTribe",
+          "name": "eostribeprod",
+          "rank": 31
+        },
+        "seed.wax.eostribe.io:16876",
+        "US",
+        "C7 Data Centers, Inc. (CDC-118)"
+      ],
+      [
+        {
+          "html_name": "EOSTribe",
+          "name": "eostribeprod",
+          "rank": 31
+        },
+        "p2p.wax.eostribe.io:16876",
+        "NL",
+        "Contabo GmbH"
+      ],
+      [
+        {
+          "html_name": "GreenEOSIO",
+          "name": "greeneosiobp",
+          "rank": 33
+        },
+        "p2p1.wax.greeneosio.com:9878",
+        "NL",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "GreenEOSIO",
+          "name": "greeneosiobp",
+          "rank": 33
+        },
+        "p2p2.wax.greeneosio.com:9878",
+        "DE",
+        "HETZNER-fsn1-dc7"
+      ],
+      [
+        {
+          "html_name": "GreenEOSIO",
+          "name": "greeneosiobp",
+          "rank": 33
+        },
+        "p2p3.wax.greeneosio.com:9876",
+        "FR",
+        "ONLINE SAS"
+      ],
+      [
+        {
+          "html_name": "WAXUSA",
+          "name": "ivote4waxusa",
+          "rank": 23
+        },
+        "wax.eosusa.news:9879",
+        "US",
+        "Charter Communications"
+      ],
+      [
+        {
+          "html_name": "KARMA",
+          "name": "karmaproduce",
+          "rank": 47
+        },
+        "seed.karmaguild.io:9876",
+        "FI",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "LedgerWise",
+          "name": "ledgerwiseio",
+          "rank": 41
+        },
+        "waxp2p.ledgerwise.io:21877",
+        "FI",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "Maltablock Guild",
+          "name": "maltablockbp",
+          "rank": 6
+        },
+        "p2p-wax.maltablock.org:9877",
+        "US",
+        "Google LLC"
+      ],
+      [
+        {
+          "html_name": "EOS Nation",
+          "name": "nation.wax",
+          "rank": 11
+        },
+        "wax.eosn.io:9876",
+        "CA",
+        "DNSnetworks Corporation"
+      ],
+      [
+        {
+          "html_name": "pink.network",
+          "name": "pink.gg",
+          "rank": 9
+        },
+        "peer1.wax.pink.gg:36715",
+        "DE",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "pink.network",
+          "name": "pink.gg",
+          "rank": 9
+        },
+        "peer2.wax.pink.gg:36715",
+        "DE",
+        "OVH GmbH"
+      ],
+      [
+        {
+          "html_name": "Polar.io",
+          "name": "polar.wax",
+          "rank": 18
+        },
+        "wax-peer.eosasia.one:9876",
+        "US",
+        "Amazon.com, Inc."
+      ],
+      [
+        {
+          "html_name": "Greymass",
+          "name": "teamgreymass",
+          "rank": 14
+        },
+        "wax.greymass.com:35777",
+        "US",
+        "DataShack, LC (DL-9)"
+      ],
+      [
+        {
+          "html_name": "Validation Capital",
+          "name": "valcapitalbp",
+          "rank": 35
+        },
+        "p2p.wax.validationcapital.io:9876",
+        "CA",
+        "Amazon Data Services Canada"
+      ],
+      [
+        {
+          "html_name": "WAX.Eastern",
+          "name": "wax.eastern",
+          "rank": 20
+        },
+        "p2p.waxeastern.cn:9876",
+        "CN",
+        "TencentCloud"
+      ],
+      [
+        {
+          "html_name": "Wax Madrid",
+          "name": "waxmadrid111",
+          "rank": 30
+        },
+        "wax-seed.eosiomadrid.io:9877",
+        "NL",
+        "Hetzner Online GmbH"
+      ],
+      [
+        {
+          "html_name": "Sw/eden&#x1F33F;",
+          "name": "waxswedenorg",
+          "rank": 2
+        },
+        "p2p.waxsweden.org:35777",
+        "SE",
+        "OWNIT-SE-NET"
+      ],
+      [
+        {
+          "html_name": "XPOBlocks",
+          "name": "xpoblockswax",
+          "rank": 32
+        },
+        "wapi.xpoblocks.com:9876",
+        "US",
+        "Choopa, LLC"
+      ],
+      [
+        {
+          "html_name": "ZenBlocks.io",
+          "name": "zenblockswax",
+          "rank": 15
+        },
+        "wax.zenblocks.io:13975",
+        "US",
+        "Choopa, LLC"
+      ]
+    ]
+  }
+}

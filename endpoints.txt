@@ -1,0 +1,2 @@
+hyperion.wax.eosdetroit.io
+p2p.wax.eosdetroit.io
